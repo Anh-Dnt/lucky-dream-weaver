@@ -1,0 +1,7 @@
+google-generativeai
+google-cloud-secret-manager
+google-cloud-pubsub
+gspread
+google-auth
+google-auth-oauthlib
+functions-framework
